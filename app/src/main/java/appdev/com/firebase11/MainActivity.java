@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 String phone=phone_txt.getText().toString();
 
                 EditText email_txt=(EditText)findViewById(R.id.email_txt);
-                String email=name_txt.getText().toString();
+                String email=email_txt.getText().toString();
 
                 String id= name.replaceAll("\\s","") + phone;
 
