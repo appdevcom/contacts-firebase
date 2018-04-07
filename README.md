@@ -2,9 +2,9 @@
 
 Aplicação exemplo Contatos com firebase
 
-O ficheiro de configuração não se encontra.
+O ficheiro de configuração do Firebase não se encontra no projeto.
 
-Têm de correr o comando Tools-firebase, escolher realtime database, e fazer os 3 primeiros passos
+Têm de correr o comando Tools/firebase, escolher realtime database, e fazer os 3 primeiros passos - no primeiro passo criar uma base de dados nova.
 
 -----------------------
 
